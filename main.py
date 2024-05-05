@@ -4,4 +4,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print("Homework3: Maksim Murashko")
+
+''' Output '''
+'''Hello world'''
