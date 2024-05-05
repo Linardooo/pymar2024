@@ -1,7 +1,4 @@
 """Function"""
-
-
-
 def main():
     """Output Hello World"""
     print("Hello world!")
